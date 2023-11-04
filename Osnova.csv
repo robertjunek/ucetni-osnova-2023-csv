@@ -1,0 +1,334 @@
+﻿Ucet;Nazev;Typ;Druh;NadrizenyUcet
+01;Dlouhodobý nehmotný majetek;;;0
+012;Nehmotné výsledky výzkumu a vývoje;Aktivní;Rozvahový;01
+013;Software;Aktivní;Rozvahový;01
+014;Ocenitelná práva;Aktivní;Rozvahový;01
+015;Goodwill;Aktivní;Rozvahový;01
+019;Jiný dlouhodobý nehmotný majetek;Aktivní;Rozvahový;01
+02;Dlouhodobý hmotný majetek odpisovaný;;;0
+021;Stavby;Aktivní;Rozvahový;02
+022;Samostatné movité věci a soubory movitých věcí;Aktivní;Rozvahový;02
+025;Pěstitelské celky trvalých porostů;Aktivní;Rozvahový;02
+026;Dospělá zvířata a jejich skupiny;Aktivní;Rozvahový;02
+029;Jiný dlouhodobý hmotný majetek;Aktivní;Rozvahový;02
+03;Dlouhodobý hmotný majetek neodpisovaný;;;0
+031;Pozemky;Aktivní;Rozvahový;03
+032;Umělecká díla a sbírky;Aktivní;Rozvahový;03
+04;Nedokončený dlouhodobý nehmotný a hmotný majetek;;;0
+041;Pořízení dlouhodobého nehmotného majetku;Aktivní;Rozvahový;04
+042;Pořízení dlouhodobého hmotného majetku;Aktivní;Rozvahový;04
+05;Poskytnuté zálohy na dlouhodobý majetek;;;0
+051;Poskytnuté zálohy na dlouhodobý nehmotný majetek;Aktivní;Rozvahový;05
+052;Poskytnuté zálohy na dlouhodobý hmotný majetek;Aktivní;Rozvahový;05
+053;Poskytnuté zálohy na dlouhodobý finanční majetek;Aktivní;Rozvahový;05
+06;Dlouhodobý finanční majetek;;;0
+061;Podíly v ovládaných a řízených osobách;Aktivní;Rozvahový;06
+062;Podíly v účetních jednotkách pod podstatným vlivem;Aktivní;Rozvahový;06
+063;Ostatní cenné papíry a podíly;Aktivní;Rozvahový;06
+065;Dluhové cenné papíry držené do splatnosti;Aktivní;Rozvahový;06
+066;Půjčky a úvěry - ovládající a řídící osoby, podstatný vliv;Aktivní;Rozvahový;06
+067;Ostatní půjčky;Aktivní;Rozvahový;06
+069;Jiný dlouhodobý finanční majetek;Aktivní;Rozvahový;06
+07;Oprávky k dlouhodobému nehmotnému majetku;;;0
+072;Oprávky k nehmotným výsledkům výzkumu a vývoje;Pasivní;Rozvahový;07
+073;Oprávky k softwaru;Pasivní;Rozvahový;07
+074;Oprávky k ocenitelným právům;Pasivní;Rozvahový;07
+075;Oprávky ke goodwillu;Pasivní;Rozvahový;07
+079;Oprávky k jinému dlouhodobému nehmotnému majetku;Pasivní;Rozvahový;07
+08;Oprávky k dlouhodobému hmotnému majetku;;;0
+081;Oprávky ke stavbám;Pasivní;Rozvahový;08
+082;Oprávky k samost. movitým věcem a souborům movitých věcí;Pasivní;Rozvahový;08
+085;Oprávky k pěstitelským celkům trvalých porostů;Pasivní;Rozvahový;08
+086;Oprávky k základnímu stádu a tažným zvířatům;Pasivní;Rozvahový;08
+089;Oprávky k jinému dlouhodobému hmotnému majetku;Pasivní;Rozvahový;08
+09;Opravné položky k dlouhodobému majetku;;;0
+091;Opravná položka k dlouhodobému nehmotnému majetku;Pasivní;Rozvahový;09
+092;Opravná položka k dlouhodobému hmotnému majetku;Pasivní;Rozvahový;09
+093;Opravná položka k dlouhodobému nedokončenému nehmotnému majetku;Pasivní;Rozvahový;09
+094;Opravná položka k dlouhodobému nedokončenému hmotnému majetku;Pasivní;Rozvahový;09
+095;Opravná položka k poskytnutým zálohám na dlouhodobý majetek;Pasivní;Rozvahový;09
+096;Opravná položka k dlouhodobému finančnímu majetku;Pasivní;Rozvahový;09
+097;Oceňovací rozdíl k nabytému majetku;Pasivní;Rozvahový;09
+098;Oprávky k oceňovacímu rozdílu k nabytému majetku;Pasivní;Rozvahový;09
+11;Materiál;;;1
+111;Pořízení materiálu;Aktivní;Rozvahový;11
+112;Materiál na skladě;Aktivní;Rozvahový;11
+119;Materiál na cestě;Aktivní;Rozvahový;11
+12;Zásoby vlastní činnosti;;;1
+121;Nedokončená výroba;Aktivní;Rozvahový;12
+122;Polotovary vlastní výroby;Aktivní;Rozvahový;12
+123;Výrobky;Aktivní;Rozvahový;12
+124;Mladá a ostatní zvířata a jejich skupiny;Aktivní;Rozvahový;12
+13;Zboží;;;1
+131;Pořízení zboží;Aktivní;Rozvahový;13
+132;Zboží na skladě a v prodejnách;Aktivní;Rozvahový;13
+139;Zboží na cestě;Aktivní;Rozvahový;13
+15;Poskytnuté zálohy na zásoby;;;1
+151;Poskytnuté zálohy na materiál;Aktivní;Rozvahový;15
+152;Poskytnuté zálohy na zvířata;Aktivní;Rozvahový;15
+153;Poskytnuté zálohy na zboží;Aktivní;Rozvahový;15
+19;Opravné položky k zásobám;;;1
+191;Opravná položka k materiálu;Aktivní;Rozvahový;19
+192;Opravná položka k nedokončené výrobě;Aktivní;Rozvahový;19
+193;Opravná položka k polotovarům vlastní výroby;Aktivní;Rozvahový;19
+194;Opravná položka k výrobkům;Aktivní;Rozvahový;19
+195;Opravná položka ke zvířatům;Aktivní;Rozvahový;19
+196;Opravná položka ke zboží;Aktivní;Rozvahový;19
+197;Opravná položka k zálohám na materiál;Aktivní;Rozvahový;19
+198;Opravná položka k zálohám na zboží;Aktivní;Rozvahový;19
+199;Opravná položka k zálohám na zvířata;Aktivní;Rozvahový;19
+210;Peníze;Aktivní;Rozvahový;21
+21;Peněžní prostředky v pokladně;;;2
+211;Pokladna;Aktivní;Rozvahový;21
+213;Ceniny;Aktivní;Rozvahový;21
+22;Peněžní prostředky na účtech;;;2
+221;Bankovní účty;Aktivní;Rozvahový;22
+23;Krátkodobé úvěry;;;2
+231;Krátkodobé bankovní úvěry;Pasivní;Rozvahový;23
+232;Eskontní úvěry;Pasivní;Rozvahový;23
+24;Krátkodobé finanční výpomoci;;;2
+241;Emitované krátkodobé dluhopisy;Pasivní;Rozvahový;24
+249;Ostatní krátkodobé finanční výpomoci;Pasivní;Rozvahový;24
+24;Krátkodobý finanční majetek;;;2
+251;Registrované majetkové cenné papíry k obchodování;Aktivní;Rozvahový;25
+252;Vlastní akcie a vlastní obchodní podíly;Pasivní;Rozvahový;25
+253;Registrované dluhové cenné papíry k obchodování;Aktivní;Rozvahový;25
+255;Vlastní dluhopisy;Aktivní;Rozvahový;25
+256;Dluhové cenné papíry se splat. do 1 roku držené do splatnosti;Aktivní;Rozvahový;25
+257;Ostatní cenné papíry k obchodování;Aktivní;Rozvahový;25
+258;Krátkodobý finanční majetek;Aktivní;Rozvahový;25
+259;Pořizování krátkodobého finančního majetku;Aktivní;Rozvahový;25
+26;Převody mezi finančními účty;;;2
+261;Peníze na cestě;Aktivní;Rozvahový;26
+29;Opravné položky ke krátkodobému finančnímu majetku;;;2
+291;Opravná položka ke krátkodobému finančnímu majetku;Aktivní;Rozvahový;29
+31;Pohledávky (krátkodobé i dlouhodobé);;;3
+311;Pohledávky z obchodních vztahů;Aktivní;Rozvahový;31
+312;Směnky k inkasu;Aktivní;Rozvahový;31
+313;Pohledávky za eskontované cenné papíry;Aktivní;Rozvahový;31
+314;Poskytnuté zálohy - dlouhodobé a krátkodobé;Aktivní;Rozvahový;31
+315;Ostatní pohledávky;Aktivní;Rozvahový;31
+32;Závazky (krátkodobé);;;3
+321;Dodavatelé - závazky z obchodních vztahů;Pasivní;Rozvahový;32
+322;Směnka k úhradě;Pasivní;Rozvahový;32
+324;Přijaté provozní zálohy;Pasivní;Rozvahový;32
+325;Ostatní závazky;Pasivní;Rozvahový;32
+33;Zúčtování se zaměstnanci a institucemi;;;3
+331;Zaměstnanci;Pasivní;Rozvahový;33
+333;Ostatní závazky vůči zaměstnancům;Pasivní;Rozvahový;33
+335;Pohledávky za zaměstnanci;Aktivní;Rozvahový;33
+336;Zúčtování s institucemi sociál. zabezpečení a zdravot. pojištění;Pasivní;Rozvahový;33
+336100;Zúčtování s institucemi sociál. zabezpečení a zdravot. pojištění - Sociální pojištění;Pasivní;Rozvahový;33
+336200;Zúčtování s institucemi sociál. zabezpečení a zdravot. pojištění - Zdravotní pojištění;Pasivní;Rozvahový;33
+34;Zúčtování daní a dotací;;;3
+341;Daň z příjmů;Pasivní;Rozvahový;34
+342;Ostatní přímé daně;Pasivní;Rozvahový;34
+343;DPH - Daň z přidané hodnoty;Pasivní;Rozvahový;34
+345;Ostatní daně a poplatky;Pasivní;Rozvahový;34
+346;Dotace ze státního rozpočtu;Pasivní;Rozvahový;34
+347;Ostatní dotace;Pasivní;Rozvahový;34
+349;Vyrovnávací účet pro DPH;Aktivní;Rozvahový;34
+35;Pohledávky za společíky;;;3
+351;Pohledávky - ovládající a řídící osoba;Aktivní;Rozvahový;35
+352;Pohledávky - podstatný vliv;Aktivní;Rozvahový;35
+353;Pohledávky za upsaný základní kapitál;Aktivní;Rozvahový;35
+354;Pohledávky za společníky při úhradě ztráty;Aktivní;Rozvahový;35
+355;Ostatní pohledávky za společníky a členy družstva;Aktivní;Rozvahový;35
+358;Pohledávky za účastníky sdružení;Aktivní;Rozvahový;35
+36;Závazky ke společníkům;;;3
+361;Závazky - ovládající a řídící osoba;Pasivní;Rozvahový;36
+362;Závazky - podstatný vliv;Pasivní;Rozvahový;36
+364;Závazky ke společníkům při rozdělování zisku;Pasivní;Rozvahový;36
+365;Ostatní závazky ke společníkům a členům družstva;Pasivní;Rozvahový;36
+366;Závazky ke společníkům a členům družstva ze závislé činnosti;Pasivní;Rozvahový;36
+367;Závazky z upsaných nesplacených cenných papírů a vkladů;Pasivní;Rozvahový;36
+368;Závazky k účastníkům sdružení;Pasivní;Rozvahový;36
+37;Jiné pohledávky a závazky;;;3
+371;Pohledávky z prodeje podniku;Aktivní;Rozvahový;37
+372;Závazky z koupě podniku;Pasivní;Rozvahový;37
+373;Pohledávky a závazky z pevných termínových operací;Aktivní;Rozvahový;37
+374;Pohledávky z pronájmu;Aktivní;Rozvahový;37
+375;Pohledávky z emitovaných dluhopisů;Aktivní;Rozvahový;37
+376;Nakoupené opce;Aktivní;Rozvahový;37
+377;Prodané opce;Pasivní;Rozvahový;37
+378;Jiné pohledávky;Aktivní;Rozvahový;37
+379;Jiné závazky;Pasivní;Rozvahový;37
+38;Přechodné účty aktiv a pasiv;;;3
+381;Náklady příštích období;Aktivní;Rozvahový;38
+382;Komplexní náklady příštích období;Aktivní;Rozvahový;38
+383;Výdaje příštích období;Pasivní;Rozvahový;38
+384;Výnosy příštích období;Pasivní;Rozvahový;38
+385;Příjmy příštích období;Aktivní;Rozvahový;38
+388;Dohadné účty aktivní;Aktivní;Rozvahový;38
+389;Dohadné účty pasivní;Pasivní;Rozvahový;38
+39;Opravná položka k zúčtovacím vztahům a vnitřní zúčtování;;;3
+391;Opravná položka k pohledávkám;Aktivní;Rozvahový;39
+395;Vnitřní zúčtování;Aktivní;Rozvahový;39
+398;Spojovací účet při sdružení;Aktivní;Rozvahový;39
+41;Základní kapitál a kapitálové fondy;;;4
+411;Základní kapitál;Pasivní;Rozvahový;41
+412;Emisní ažio;Pasivní;Rozvahový;41
+413;Ostatní kapitálové fondy;Pasivní;Rozvahový;41
+414;Oceňovací rozdíly z přecenění majetku a závazků;Pasivní;Rozvahový;41
+417;Rozdíly z přeměn společností;Pasivní;Rozvahový;41
+418;Oceňovací rozdíly z přecenění při přeměnách společností;Pasivní;Rozvahový;41
+419;Změny základního kapitálu;Pasivní;Rozvahový;41
+42;Fondy ze zisku a převedené výsledky hospodaření;;;4
+421;Zákonný rezervní fond;Pasivní;Rozvahový;42
+422;Nedělitelný fond;Pasivní;Rozvahový;42
+423;Statutární fondy;Pasivní;Rozvahový;42
+426;Jiný výsledek hospodaření minulých let;Pasivní;Rozvahový;42
+427;Ostatní fondy;Pasivní;Rozvahový;42
+428;Nerozdělený zisk minulých let;Pasivní;Rozvahový;42
+429;Neuhrazená ztráta minulých let;Pasivní;Rozvahový;42
+43;Výsledek hospodaření;;;4
+431;Výsledek hospodaření ve schvalovacím řízení;Pasivní;Rozvahový;43
+45;Rezervy;;;4
+451;Rezervy podle zvláštních právních předpisů;Pasivní;Rozvahový;45
+452;Rezerva na důchody a podobné závazky;Pasivní;Rozvahový;45
+453;Rezerva na daň z příjmů;Pasivní;Rozvahový;45
+459;Ostatní rezervy;Pasivní;Rozvahový;45
+46;Dlouhodobé závazky k úvěrovým institucím;;;4
+461;Bankovní úvěry;Pasivní;Rozvahový;46
+47;Dlouhodobé závazky;;;4
+471;Dlouhodobé závazky - ovládající a řídící osoba;Pasivní;Rozvahový;47
+472;Dlouhodobé závazky - podstatný vliv;Pasivní;Rozvahový;47
+473;Emitované dluhopisy;Pasivní;Rozvahový;47
+474;Závazky z pronájmu;Pasivní;Rozvahový;47
+475;Dlouhodobé přijaté zálohy;Pasivní;Rozvahový;47
+478;Dlouhodobé směnky k úhradě;Pasivní;Rozvahový;47
+479;Jiné dlouhodobé závazky;Pasivní;Rozvahový;47
+48;Odložený daňový závazek a pohledávka;;;4
+481;Odložený daňový závazek a pohledávka;Pasivní;Rozvahový;48
+49;Individuální podnikatel;;;4
+491;Účet individuálního podnikatele;Pasivní;Rozvahový;49
+50;Spotřebované nákupy;;;5
+501;Spotřeba materiálu;Nákladový daňový;Výsledkový;50
+502;Spotřeba energie;Nákladový daňový;Výsledkový;50
+503;Spotřeba ostatních neskladovatelných dodávek;Nákladový daňový;Výsledkový;50
+504;Prodané zboží;Nákladový daňový;Výsledkový;50
+510;Služby;Nákladový daňový;Výsledkový;51
+51;Služby;;;5
+511;Opravy a udržování;Nákladový daňový;Výsledkový;51
+512;Cestovné;Nákladový daňový;Výsledkový;51
+513;Náklady na reprezentaci;Nedaňový;Výsledkový;51
+518;Ostatní služby;Nákladový daňový;Výsledkový;51
+520;Osobní náklady;Nákladový daňový;Výsledkový;52
+52;Osobní náklady;;;5
+521;Mzdové náklady;Nákladový daňový;Výsledkový;52
+522;Příjmy společníků a členů družstva ze závislé činnosti;Nákladový daňový;Výsledkový;52
+523;Odměny členům orgánů společnosti a družstva;Nákladový daňový;Výsledkový;52
+524;Zákonné sociální pojištění;Nákladový daňový;Výsledkový;52
+525;Ostatní sociální pojištění;Nedaňový;Výsledkový;52
+526;Sociální náklady individuálního podnikatele;Nedaňový;Výsledkový;52
+527;Zákonné sociální náklady;Nákladový daňový;Výsledkový;52
+528;Ostatní sociální náklady;Nedaňový;Výsledkový;52
+530;Daně a poplatky;Nákladový daňový;Výsledkový;53
+53;Daně a poplatky;;;5
+531;Daň silniční;Nákladový daňový;Výsledkový;53
+532;Daň z nemovitostí;Nákladový daňový;Výsledkový;53
+538;Ostatní daně a poplatky;Nákladový daňový;Výsledkový;53
+540;Jiné provozní náklady;Nákladový daňový;Výsledkový;54
+54;Jiné provozní náklady;;;5
+541;Zůstatková cena prodaného dlouhodobého nehmotného a hmotného majetku;Nákladový daňový;Výsledkový;54
+542;Prodaný materiál;Nákladový daňový;Výsledkový;54
+543;Dary;Nedaňový;Výsledkový;54
+544;Smluvní pokuty a úroky z prodlení;Nákladový daňový;Výsledkový;54
+545;Ostatní pokuty a penále;Nedaňový;Výsledkový;54
+546;Odpis pohledávky;Nedaňový;Výsledkový;54
+548;Ostatní provozní náklady;Nákladový daňový;Výsledkový;54
+549;Manka a škody z provozní činnosti;Nákladový daňový;Výsledkový;54
+55;Odpisy, rezervy, komplexní náklady příštích období a opravné položky v provozní oblasti;;;5
+551;Odpisy dlouhodobého nehmotného a hmotného majetku;Nákladový daňový;Výsledkový;55
+552;Tvorba a zúčtování rezerv podle zvláštních právních předpisů;Nákladový daňový;Výsledkový;55
+554;Tvorba a zúčtování ostatních rezerv;Nedaňový;Výsledkový;55
+555;Tvorba a zúčtování komplexních nákladů příštích období;Nákladový daňový;Výsledkový;55
+557;Zúčtování oprávky k oceňovacímu rozdílu k nabytému majetku;Nedaňový;Výsledkový;55
+558;Tvorba a zúčtování zákonných opravných položek v provozní činnosti;Nákladový daňový;Výsledkový;55
+559;Tvorba a zúčtování opravných položek v provozní činnosti;Nedaňový;Výsledkový;55
+560;Finanční náklady;Nákladový daňový;Výsledkový;56
+56;Finanční náklady;;;5
+561;Prodané cenné papíry a podíly;Nákladový daňový;Výsledkový;56
+562;Úroky;Nákladový daňový;Výsledkový;56
+563;Kurzové ztráty;Nákladový daňový;Výsledkový;56
+564;Náklady z přecenění cenných papírů;Nákladový daňový;Výsledkový;56
+566;Náklady z finančního majetku;Nákladový daňový;Výsledkový;56
+567;Náklady z derivátových operací;Nákladový daňový;Výsledkový;56
+568;Ostatní finanční náklady;Nákladový daňový;Výsledkový;56
+569;Manka a škody na finančním majetku;Nákladový daňový;Výsledkový;56
+57;Rezervy a opravné položky ve finanční oblasti;;;5
+574;Tvorba a zúčtování finančních rezerv;Nedaňový;Výsledkový;57
+579;Tvorba a zúčtování opravných položek ve finanční činnosti;Nedaňový;Výsledkový;57
+580;Mimořádné náklady;Nedaňový;Výsledkový;58
+58;Změna stavu zásob vlastní činnosti a aktivace;;;5
+581;Změna stavu nedokončené výroby;Nákladový daňový;Výsledkový;58
+582;Změna stavu polotovarů vlastní výroby;Nákladový daňový;Výsledkový;58
+583;Změna stavu výrobků;Nákladový daňový;Výsledkový;58
+584;Změna stavu zvířat;Nákladový daňový;Výsledkový;58
+585;Aktivace materiálu a zboží;Nákladový daňový;Výsledkový;58
+586;Aktivace vnitropodnikových služeb;Nákladový daňový;Výsledkový;58
+587;Aktivace dlouhodobého nehmotného majetku;Nákladový daňový;Výsledkový;58
+588;Aktivace dlouhodobého hmotného majetku;Nákladový daňový;Výsledkový;58
+589;Tvorba a zúčtování opravných položek v mimořádné činnosti;Nedaňový;Výsledkový;58
+59;Daně z příjmů, převodové účty a rezerva na daň z příjmů;;;5
+591;Daň z příjmů z běžné činnosti - splatná;Nedaňový;Výsledkový;59
+592;Daň z příjmů z běžné činnosti - odložená;Nedaňový;Výsledkový;59
+593;Daň z příjmů z mimořádné činnosti - splatná;Nedaňový;Výsledkový;59
+594;Daň z příjmů z mimořádné činnosti - odložená;Nedaňový;Výsledkový;59
+595;Dodatečné odvody daně z příjmů;Nedaňový;Výsledkový;59
+596;Převod podílu na výsledku hospodaření společníkům;Nedaňový;Výsledkový;59
+597;Převod provozních nákladů;Nákladový daňový;Výsledkový;59
+598;Převod finančních nákladů;Nákladový daňový;Výsledkový;59
+599;Rezerva na daň z příjmu;Nedaňový;Výsledkový;59
+60;Tržby za vlastní výkony a zboží;;;6
+601;Tržby za vlastní výrobky;Daňový;Výsledkový;60
+602;Tržby z prodeje služeb;Daňový;Výsledkový;60
+604;Tržby za zboží;Daňový;Výsledkový;60
+610;Změny stavu zásob vlastní činnosti;Daňový;Výsledkový;61
+611;Změna stavu nedokončené výroby;Daňový;Výsledkový;61
+612;Změna stavu polotovarů vlastní výroby;Daňový;Výsledkový;61
+613;Změna stavu výrobků;Daňový;Výsledkový;61
+614;Změna stavu zvířat;Daňový;Výsledkový;61
+620;Aktivace;Daňový;Výsledkový;62
+621;Aktivace materiálu a zboží;Daňový;Výsledkový;62
+622;Aktivace vnitropodnikových služeb;Daňový;Výsledkový;62
+623;Aktivace dlouhodobého nehmotného majetku;Daňový;Výsledkový;62
+624;Aktivace dlouhodobého hmotného majetku;Daňový;Výsledkový;62
+640;Jiné provozní výnosy;Daňový;Výsledkový;64
+64;Jiné provozní výnosy;;;6
+641;Tržby z prodeje dlouhodobého nehmotného a hmotného majetku;Daňový;Výsledkový;64
+642;Tržby z prodeje materiálu;Daňový;Výsledkový;64
+644;Smluvní pokuty a úroky z prodlení;Daňový;Výsledkový;64
+646;Výnosy z odepsaných pohledávek;Daňový;Výsledkový;64
+648;Ostatní provozní výnosy;Daňový;Výsledkový;64
+660;Finanční výnosy;Daňový;Výsledkový;66
+66;Finanční výnosy;;;6
+661;Tržby z prodeje cenných papírů a podílů;Daňový;Výsledkový;66
+662;Úroky;Daňový;Výsledkový;66
+663;Kursové zisky;Daňový;Výsledkový;66
+664;Výnosy z přecenění cenných papírů;Daňový;Výsledkový;66
+665;Výnosy z dlouhodobého finančního majetku;Daňový;Výsledkový;66
+666;Výnosy z krátkodobého finančního majetku;Daňový;Výsledkový;66
+667;Výnosy z derivátových operací;Daňový;Výsledkový;66
+668;Ostatní finanční výnosy;Daňový;Výsledkový;66
+680;Mimořádné výnosy;Daňový;Výsledkový;68
+681;Výnosy ze změny metody;Daňový;Výsledkový;68
+688;Ostatní mimořádné výnosy;Daňový;Výsledkový;68
+69;Převodové účty;;;6
+697;Převod provozních výnosů;Daňový;Výsledkový;69
+698;Převod finančních výnosů;Daňový;Výsledkový;69
+70;Účty rozvažné;;;7
+701;Počáteční účet rozvažný;Závěrkový;;70
+702;Konečný účet rozvažný;Závěrkový;;70
+71;Účet zisků a ztrát;;;7
+710;Účet zisků a ztrát;Závěrkový;;71
+0;Dlouhodobý majetek (Aktiva);;;
+1;Zásoby (Aktiva);;;
+2;Krátkodobý finanční majetek a peněžní prostředky (Aktiva a Pasiva);;;
+3;Zúčtovací vztahy (Aktiva a Pasiva);;;
+4;Kapitálové účty a dlouhodobé závazky (Pasiva);;;
+5;Náklady;;;
+6;Výnosy;;;
+7;Závěrkové a podrozvahové účty;;;
+8;Vnitropodnikové účtování;;;
+9;Vnitropodnikové účtování;;;
